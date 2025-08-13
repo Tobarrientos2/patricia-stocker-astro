@@ -1,0 +1,4 @@
+kind: wasmer.io/App.v0
+name: patricia-stocker-astro
+owner: tobarrientos1
+package: .
